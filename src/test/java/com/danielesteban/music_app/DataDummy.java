@@ -61,8 +61,8 @@ public class DataDummy {
 
         ALBUM_DTO_INVALID = new AlbumDTO(
                 1L,
-                "album-test",
-                "actor-test",
+                "Album-test",
+                "Actor-test",
                 20.20,
                 RECORD_COMPANY_DTO,
                 new HashSet<>(Arrays.asList(TRACK_1_DTO, TRACK_2_DTO, TRACK_3_DTO, TRACK_4_DTO)));
